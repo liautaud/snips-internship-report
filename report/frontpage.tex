@@ -1,0 +1,52 @@
+\pagenumbering{gobble}
+\newgeometry{vmargin=6em, hmargin=6em}
+{\noindent
+\large
+Master in Computer Science \hfill Internship Report\\
+\textit{École Normale Supérieure de Lyon} \hfill \textsc{\theauthor}}
+
+\vspace{2.8em}
+
+\hfuzz=5.002pt
+\noindent
+\setlength{\fboxsep}{15pt}
+\colorbox{gray!20}{\parbox{\linewidth-30pt}{\raggedleft
+    \vspace{2.5em}
+    {\Large \textbf{\thetitle}} \\
+    {\large \textit{\thesubtitle}}
+}}
+
+\vspace{2.5em}
+
+\begin{center}
+\textsc{\thecredits}
+\end{center}
+
+\vspace{1.3em}
+
+\begin{center}
+\parbox{0.84\linewidth}{
+\setlength{\parindent}{11.1pt}
+\noindent
+\textsc{\textbf{Abstract}}\\
+
+\theabstract
+}
+\end{center}
+
+\vspace{1.3em}
+
+\begin{center}
+\parbox{0.84\linewidth}{
+\setlength{\parindent}{11.1pt}
+\noindent
+\textsc{\textbf{Table of Contents}}
+
+\vspace{-4em}
+\renewcommand\contentsname{}
+\tableofcontents}
+\end{center}
+
+\newpage
+\pagenumbering{arabic}
+\restoregeometry

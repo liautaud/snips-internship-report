@@ -2,7 +2,7 @@
 
 LaTeX sources for my internship report on the static analysis and optimization of TensorFlow models.
 
-➡️ *Latest PDF release of the [report](https://github.com/liautaud/snips-internship-report/releases/latest/download/liautaud-snips-report.pdf) and [slides](https://github.com/liautaud/snips-internship-report/releases/latest/download/liautaud-snips-slides.pdf)*.
+➡️ *Latest PDF release of the [report](https://raw.githubusercontent.com/liautaud/snips-internship-report/master/liautaud-snips-report.pdf) and [slides](https://raw.githubusercontent.com/liautaud/snips-internship-report/master/liautaud-snips-slides.pdf)*.
 
 
 ### Summary.
